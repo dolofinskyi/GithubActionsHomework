@@ -14,4 +14,8 @@ jobs:
       - name: Grant Permissions to gradlew
         run: chmod +x gradlew
       - name: Run JUnit Tests
+<<<<<<< HEAD
         run: ./gradlew test
+=======
+        run: ./gradlew test
+>>>>>>> 609ba004621ab6cba97f13af6fa5d31f0dbcb91d
