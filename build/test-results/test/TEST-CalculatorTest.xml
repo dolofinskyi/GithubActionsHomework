@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="CalculatorTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2023-12-25T13:54:59" hostname="DESKTOP-83P0S79" time="0.019">
+  <properties/>
+  <testcase name="testAdd()" classname="CalculatorTest" time="0.012"/>
+  <testcase name="testSub()" classname="CalculatorTest" time="0.001"/>
+  <testcase name="testInvalidAdd()" classname="CalculatorTest" time="0.002"/>
+  <testcase name="testInvalidSub()" classname="CalculatorTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
